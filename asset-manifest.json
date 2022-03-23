@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/Rishabh-Bose/static/css/main.78e30a21.css",
-    "main.js": "/Rishabh-Bose/static/js/main.1860b2f0.js",
+    "main.js": "/Rishabh-Bose/static/js/main.59748895.js",
     "static/media/abc.jpg": "/Rishabh-Bose/static/media/abc.569c4caa6d71679c88ef.jpg",
     "static/media/thisWeb.png": "/Rishabh-Bose/static/media/thisWeb.0ab375703576884f48ab.png",
     "static/media/thebose.jpg": "/Rishabh-Bose/static/media/thebose.4c2605b5d3c56974896d.jpg",
     "static/media/moon.png": "/Rishabh-Bose/static/media/moon.4c1b90c485ddc0e32868.png",
-    "static/media/gal.jpg": "/Rishabh-Bose/static/media/gal.894b4726fb2dae75aff3.jpg",
     "static/media/man2.jpg": "/Rishabh-Bose/static/media/man2.b2ee9bc1efd059bce500.jpg",
     "static/media/home.jpeg": "/Rishabh-Bose/static/media/home.13c280ae7417f209c155.jpeg",
     "static/media/cont.jpeg": "/Rishabh-Bose/static/media/cont.d13d5e32cbc73884b526.jpeg",
     "index.html": "/Rishabh-Bose/index.html",
     "main.78e30a21.css.map": "/Rishabh-Bose/static/css/main.78e30a21.css.map",
-    "main.1860b2f0.js.map": "/Rishabh-Bose/static/js/main.1860b2f0.js.map"
+    "main.59748895.js.map": "/Rishabh-Bose/static/js/main.59748895.js.map"
   },
   "entrypoints": [
     "static/css/main.78e30a21.css",
-    "static/js/main.1860b2f0.js"
+    "static/js/main.59748895.js"
   ]
 }
